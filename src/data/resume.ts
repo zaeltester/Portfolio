@@ -22,7 +22,7 @@ export const personalInfo = {
   email: "orlando.trujillo123@gmail.com",
   phone: "7785229314",
   linkedin: "https://www.linkedin.com/in/orlandotrujilloflorez",
-  github: "https://orlandojtx.github.io", // Using the provided GitHub IO link as the main link, though it might be a page.
+  github: "https://github.com/orlandojtx",
   summary: "Senior IT professional with 14+ years of experience providing IT support, cloud solutions, software development, data engineering, and database administration (DBA). Skilled in managing and deploying enterprise systems, leading SQL/BI initiatives, and supporting large on-premise and cloud environments. Strong hands-on experience with Oracle, Microsoft SQL Server, MySQL, and Azure database administration. Proven expertise in Azure and AWS migrations, infrastructure management, and security best practices."
 };
 
