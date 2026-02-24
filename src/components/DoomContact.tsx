@@ -1,7 +1,6 @@
 import { personalInfo } from '../data/resume';
 import { Mail, Linkedin, Github, Radio, Send } from 'lucide-react';
 import DoomCard from './DoomCard';
-import resumePdf from '../assets/resume.pdf';
 
 export default function DoomContact() {
   return (
@@ -88,7 +87,7 @@ export default function DoomContact() {
               </a>
               
               <a 
-                href={resumePdf}
+                href="/resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full py-4 bg-transparent border-2 border-white/20 text-white font-display font-bold text-2xl tracking-widest text-center hover:border-doom-orange hover:text-doom-orange transition-colors clip-corner-both flex items-center justify-center gap-3"
